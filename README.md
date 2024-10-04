@@ -6,15 +6,17 @@
 
 #  📁 *Project created for invoice management*
 > This project is based on learning `Spring secutiry` with an invoice management application which takes technical skills to another level.
-###
-
 # Java Spring API-REST - There We Go!! ❤️
 - Manejo de las siguientes capas
-    - MVC
-    - entidades
-    - repository
-    - services
-    - web(controller)
+    - *constants*
+    - *DAO*
+    - *DTO*
+    - *JWT*
+    - *pojo*
+    - *rest*
+    - *services*
+    - *utils*
+
 - capas aplicativas
     - excepciones
     - mappers
@@ -39,7 +41,14 @@ java --version
 ```bash
 mvn --version
 ```
+- puerto por el que corre el servicio
+```bash
+8081
+```
 - motor de base de datos mysql
+```bash
+name data base : bill
+```
 - clona el repo 😉
 
 
