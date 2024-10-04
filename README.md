@@ -22,7 +22,7 @@
     - mappers
     - enumeradores
     - DTOS
--librerias
+- librerias
     - maven
     - lombok
     - JDB API
@@ -52,6 +52,6 @@ name data base : bill
 - clona el repo 😉
 
 
-![Insignia de logro Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) 
+![Insignia de logro Colaborador de Mars 2020](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png)
 - | **Galaxy Brain** 
-- ¡Saludos!
+- **¡Saludos!**
