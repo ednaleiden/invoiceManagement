@@ -28,6 +28,14 @@
     - JDB API
     - JPA
     - MYSQL
+    - jjwt
+    - android-json
+    - pdfbox
+    - itextpdf
+    - guava
+    - gson
+    - mail sender
+    - spring security
 
 ## Que requieres para clonar
     jdk 17
